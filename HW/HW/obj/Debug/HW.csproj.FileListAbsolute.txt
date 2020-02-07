@@ -1,0 +1,6 @@
+C:\Users\Дмитрий\source\repos\HW\HW\bin\Debug\HW.exe.config
+C:\Users\Дмитрий\source\repos\HW\HW\bin\Debug\HW.exe
+C:\Users\Дмитрий\source\repos\HW\HW\bin\Debug\HW.pdb
+C:\Users\Дмитрий\source\repos\HW\HW\obj\Debug\HW.csprojAssemblyReference.cache
+C:\Users\Дмитрий\source\repos\HW\HW\obj\Debug\HW.exe
+C:\Users\Дмитрий\source\repos\HW\HW\obj\Debug\HW.pdb
